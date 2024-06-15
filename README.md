@@ -19,6 +19,8 @@ The script utilizes Haar cascades provided by OpenCV to detect faces and full bo
    git clone <repository_url>
 2. **Install OpenCV:**
     Ensure you have OpenCV installed in your Python environment. You can install it via pip:
+
+
     pip install opencv-python
 3.**Run the Script:**
    python face_detection.py
@@ -26,6 +28,10 @@ The script utilizes Haar cascades provided by OpenCV to detect faces and full bo
 **Instructions:**
 
 -The script will open your webcam and start detecting faces in real-time.
+
+
 -Detected faces will be highlighted with rectangles on the video feed.
+
+
 -Press 'q' to exit the application.
    
